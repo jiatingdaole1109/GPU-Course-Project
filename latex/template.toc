@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {一}绪论}{1}{}%
+\contentsline {section}{\numberline {二}程序实现方法}{1}{}%
+\contentsline {subsection}{\numberline {2.1}格子玻尔兹曼方法}{1}{}%
+\contentsline {subsection}{\numberline {2.2}基于CPU并行}{2}{}%
+\contentsline {subsection}{\numberline {2.3}基于GPU并行}{3}{}%
+\contentsline {section}{\numberline {三}实验过程}{4}{}%
+\contentsline {subsection}{\numberline {3.1}问题描述}{4}{}%
+\contentsline {subsection}{\numberline {3.2}实验设备}{5}{}%
+\contentsline {subsection}{\numberline {3.3}数据结构设计}{6}{}%
+\contentsline {subsection}{\numberline {3.4}流程计算框图}{8}{}%
+\contentsline {section}{\numberline {四}结论与分析}{8}{}%
+\contentsline {subsection}{\numberline {4.1}流场结果对比}{8}{}%
+\contentsline {subsection}{\numberline {4.2}运行时间对比}{9}{}%
+\contentsline {subsection}{\numberline {4.3}参数影响}{10}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}CPU并行核数}{10}{}%
+\contentsline {subsubsection}{\numberline {4.3.2}GPU线程块大小}{11}{}%
+\contentsline {section}{\numberline {五}心得体会}{13}{}%
+\contentsfinish 

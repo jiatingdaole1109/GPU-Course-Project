@@ -1,0 +1,7 @@
+﻿  LBM_C.c
+d:\desktop\lbm\lbm_c\lbm_c\lbm_c.c(37): warning C4305: “=”: 从“double”到“float”截断
+d:\desktop\lbm\lbm_c\lbm_c\lbm_c.c(39): warning C4305: “=”: 从“double”到“float”截断
+  正在生成代码
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  LBM_C.vcxproj -> D:\Desktop\LBM\LBM_C\x64\Release\LBM_C.exe

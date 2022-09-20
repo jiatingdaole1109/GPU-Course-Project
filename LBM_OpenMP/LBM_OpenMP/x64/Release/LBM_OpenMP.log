@@ -1,0 +1,42 @@
+﻿  LBM_OpenMP.c
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(41): warning C4305: “=”: 从“double”到“float”截断
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(43): warning C4305: “=”: 从“double”到“float”截断
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(137): warning C4101: “im1”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(137): warning C4101: “i0”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(137): warning C4101: “ip1”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(137): warning C4101: “i”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(137): warning C4101: “jp1”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(137): warning C4101: “jm1”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(187): warning C4101: “f2eq”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(187): warning C4101: “f7eq”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(187): warning C4101: “f4eq”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(187): warning C4101: “f8eq”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(187): warning C4101: “f5eq”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(186): warning C4101: “v_sq_term”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(186): warning C4101: “vx”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(185): warning C4101: “i0”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(186): warning C4101: “rovy”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(186): warning C4101: “rovx”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(186): warning C4101: “vy”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(185): warning C4101: “i”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(187): warning C4101: “f6eq”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(186): warning C4101: “ro”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(187): warning C4101: “f0eq”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(187): warning C4101: “f3eq”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(187): warning C4101: “f1eq”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(240): warning C4101: “f7old”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(240): warning C4101: “f2old”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(240): warning C4101: “f3old”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(240): warning C4101: “f8old”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(240): warning C4101: “v_sq_term”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(240): warning C4101: “f1old”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(240): warning C4101: “f5old”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(240): warning C4101: “f4old”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(239): warning C4101: “i”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(239): warning C4101: “i2d”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(239): warning C4101: “i2d2”: 未引用的局部变量
+d:\desktop\lbm\lbm_openmp\lbm_openmp\lbm_openmp.c(240): warning C4101: “f6old”: 未引用的局部变量
+  正在生成代码
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  LBM_OpenMP.vcxproj -> D:\Desktop\LBM\LBM_OpenMP\x64\Release\LBM_OpenMP.exe

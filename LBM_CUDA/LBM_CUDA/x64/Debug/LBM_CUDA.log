@@ -1,0 +1,55 @@
+﻿  Compiling CUDA source file LBM_CUDA.cu...
+  
+  E:\LBM_CUDA\LBM_CUDA>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "D:\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64" -x cu   -I"C:\ProgramData\NVIDIA Corporation\CUDA Samples\v11.0\common\inc" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static  -g   -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc141.pdb /FS /Zi /RTC1 /MDd " -o x64\Debug\LBM_CUDA.cu.obj "E:\LBM_CUDA\LBM_CUDA\LBM_CUDA.cu" 
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(58): warning : variable "totpoints" was set but never used
+  
+  LBM_CUDA.cu
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(74): warning C4305: “=”: 从“double”到“float”截断
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(76): warning C4305: “=”: 从“double”到“float”截断
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(299): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(280): warning C4996: 'cudaBindTextureToArray': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1180): note: 参见“cudaBindTextureToArray”的声明
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(282): warning C4996: 'cudaBindTextureToArray': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1180): note: 参见“cudaBindTextureToArray”的声明
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(284): warning C4996: 'cudaBindTextureToArray': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1180): note: 参见“cudaBindTextureToArray”的声明
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(286): warning C4996: 'cudaBindTextureToArray': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1180): note: 参见“cudaBindTextureToArray”的声明
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(288): warning C4996: 'cudaBindTextureToArray': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1180): note: 参见“cudaBindTextureToArray”的声明
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(290): warning C4996: 'cudaBindTextureToArray': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1180): note: 参见“cudaBindTextureToArray”的声明
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(292): warning C4996: 'cudaBindTextureToArray': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1180): note: 参见“cudaBindTextureToArray”的声明
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(294): warning C4996: 'cudaBindTextureToArray': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1180): note: 参见“cudaBindTextureToArray”的声明
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(302): warning C4996: 'cudaUnbindTexture': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1304): note: 参见“cudaUnbindTexture”的声明
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(303): warning C4996: 'cudaUnbindTexture': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1304): note: 参见“cudaUnbindTexture”的声明
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(304): warning C4996: 'cudaUnbindTexture': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1304): note: 参见“cudaUnbindTexture”的声明
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(305): warning C4996: 'cudaUnbindTexture': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1304): note: 参见“cudaUnbindTexture”的声明
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(306): warning C4996: 'cudaUnbindTexture': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1304): note: 参见“cudaUnbindTexture”的声明
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(307): warning C4996: 'cudaUnbindTexture': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1304): note: 参见“cudaUnbindTexture”的声明
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(308): warning C4996: 'cudaUnbindTexture': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1304): note: 参见“cudaUnbindTexture”的声明
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(309): warning C4996: 'cudaUnbindTexture': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1304): note: 参见“cudaUnbindTexture”的声明
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(380): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(461): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1188): warning C4996: 'cudaBindTextureToArray': 被声明为已否决
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1141): note: 参见“cudaBindTextureToArray”的声明
+  E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(280): note: 参见对正在编译的函数 模板 实例化“cudaError_t cudaBindTextureToArray<float,2,cudaReadModeElementType>(const texture<float,2,cudaReadModeElementType> &,cudaArray_const_t)”的引用
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1308): warning C4996: 'cudaUnbindTexture': 被声明为已否决
+  c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\cuda_runtime_api.h(7877): note: 参见“cudaUnbindTexture”的声明
+  E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(302): note: 参见对正在编译的函数 模板 实例化“cudaError_t cudaUnbindTexture<float,2,cudaReadModeElementType>(const texture<float,2,cudaReadModeElementType> &)”的引用
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1147): warning C4996: 'cudaBindTextureToArray': 被声明为已否决
+  c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\cuda_runtime_api.h(7811): note: 参见“cudaBindTextureToArray”的声明
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1188): note: 参见对正在编译的函数 模板 实例化“cudaError_t cudaBindTextureToArray<float,2,cudaReadModeElementType>(const texture<float,2,cudaReadModeElementType> &,cudaArray_const_t,const cudaChannelFormatDesc &)”的引用
+  E:/LBM_CUDA/LBM_CUDA/LBM_CUDA.cu(280): note: 参见对正在编译的函数 模板 实例化“cudaError_t cudaBindTextureToArray<float,2,cudaReadModeElementType>(const texture<float,2,cudaReadModeElementType> &,cudaArray_const_t)”的引用
+    正在创建库 E:\LBM_CUDA\x64\Debug\LBM_CUDA.lib 和对象 E:\LBM_CUDA\x64\Debug\LBM_CUDA.exp
+  LBM_CUDA.vcxproj -> E:\LBM_CUDA\x64\Debug\LBM_CUDA.exe
